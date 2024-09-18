@@ -9,44 +9,30 @@ Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
 
 ## Instrucciones para crear un proyecto local:
 * Ir al directorio del proyecto
-* Abrir un proyecto: HOME>New>Project>From Folder
+* Abrir un proyecto: **HOME>New>Project>From Folder**
 * Añadir las carpetas que se deseen usar:
   
   01_Teoría <br> 
-  05_Cinemática
-  
-  10_Dinámica
-  
-  15_Médica
-  
-  20_Comunicaciones
-  
-  25_Móvil
-  
-  30_Visión
-  
-  35_Humanoides
-  
-  50_Clase_Otros
-  
-  APP
-  
-  Biblioteca
-  
-  Mfiles
-  
-  RobMat
-  
-  Robots (carpeta y subcarpetas)
-  
-  RobSubSys 
+  05_Cinemática <br>
+  10_Dinámica <br>
+  15_Médica <br>
+  20_Comunicaciones <br>
+  25_Móvil <br>
+  30_Visión <br>
+  35_Humanoides <br>
+  50_Clase_Otros <br>
+  APP <br>
+  Biblioteca <br>
+  Mfiles <br>
+  RobMat <br>
+  Robots (carpeta y subcarpetas) <br>
+  RobSubSys <br>
 
-  Ya tenemos el path de todas las carpetas y podemos usarlas sin problema.
-  
-  La siguiente vez, el proyecto ya está definido, y solo hay que ejecutar el mismo picando sobre él.
+  Ya tenemos el path de todas las carpetas y podemos usarlas sin problema. <br>
+  La siguiente vez, el proyecto ya está definido, y solo hay que ejecutar el mismo picando sobre él. <br>
 
-## Abrir un proyecto directamente sobre el proyecto https://github.com/albher/SimRobots.git
-* Abir proyecto HOME>New>Project>From Git
-* Introducir la dirección del proyecto https://github.com/albher/SimRobots.git
-* El proyecto se descarga donde se desee, pero los ficheros solo son de lectura.
+## Instruciones para crear un proyecto directamente desde **git**:
+* Abir proyecto **HOME>New>Project>From Git**
+* Introducir la dirección del proyecto **https://github.com/albher/SimRobots.git**
+* El proyecto se descarga en la carpeta deseada, pero los ficheros solo son de lectura.
 
