@@ -28,8 +28,8 @@ Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
   Robots (carpeta y subcarpetas) <br>
   RobSubSys <br>
 
-  Ya tenemos el path de todas las carpetas y podemos usarlas sin problema. <br>
-  La siguiente vez, el proyecto ya está definido, y solo hay que ejecutar el mismo picando sobre él. <br>
+* Ya tenemos el path de todas las carpetas y podemos usarlas sin problema. 
+* La siguiente vez, el proyecto ya está definido, y solo hay que ejecutar el mismo picando sobre él.
 
 ## Instruciones para crear un proyecto directamente desde **git**:
 * Abir proyecto **HOME>New>Project>From Git**
