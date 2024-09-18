@@ -11,6 +11,7 @@ Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
 * Ir al directorio del proyecto
 * Abrir un proyecto: HOME>New>Project>From Folder
 * Añadir las carpetas que se deseen usar:
+  
   01_Teoría
   
   05_Cinemática
