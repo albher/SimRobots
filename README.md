@@ -1,7 +1,7 @@
 # SimRobots
 Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
 
-1.- Instrucciones para descargar ficheros y usar el programa:
+## Instrucciones para descargar ficheros y usar el programa:
 * Bajarse el fichero *.zip del proyecto
 * Descomprimir el fichero en un directorio
 * Abrir Matlab e ir al directorio del proyecto
