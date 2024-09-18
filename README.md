@@ -38,7 +38,7 @@ Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
   
   RobMat
   
-  Robots (carpetas y subcarpetas)
+  Robots (carpeta y subcarpetas)
   
   RobSubSys 
 
