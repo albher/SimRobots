@@ -1,6 +1,11 @@
 # SimRobots
 Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
 
+## Descripción
+* Los robots de la estación se modelan con "SimScape Multibody"
+* Las trayectorias se obtienen con "Robotic Systems Toolbox"
+* Se ha usado la versión de Matlab 2023a, sobre todo para los ficheros de Simulink
+
 ## Instrucciones para descargar ficheros y usar el programa:
 * Bajarse el fichero __*.zip__ del proyecto
 * Descomprimir el fichero en un directorio
