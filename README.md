@@ -43,5 +43,5 @@ Instrucciones para crear un proyecto:
 
   Ya tenemos el path de todas las carpetas y podemos usarlas sin problema.
   
-  La siguiente vez el proyecto ya está definido y solo hay que ejecutar el mismo picando sobre él.
+  La siguiente vez, el proyecto ya está definido, y solo hay que ejecutar el mismo picando sobre él.
 
