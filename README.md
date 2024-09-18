@@ -46,5 +46,8 @@ Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
   
   La siguiente vez, el proyecto ya está definido, y solo hay que ejecutar el mismo picando sobre él.
 
-
+3.- Abrir un proyecto directamente sobre el proyecto https://github.com/albher/SimRobots.git
+* Abir proyecto HOME>New>Project>From Git
+* Introducir la dirección del proyecto https://github.com/albher/SimRobots.git
+* El proyecto se descarga donde se desee, pero los ficheros solo son de lectura.
 
