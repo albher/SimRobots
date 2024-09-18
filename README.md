@@ -2,14 +2,14 @@
 Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
 
 ## Instrucciones para descargar ficheros y usar el programa:
-* Bajarse el fichero *.zip del proyecto
+* Bajarse el fichero __*.zip__ del proyecto
 * Descomprimir el fichero en un directorio
 * Abrir Matlab e ir al directorio del proyecto
 * Crear un proyecto que englobe las carpetas que se desean usar
 
 ## Instrucciones para crear un proyecto local:
 * Ir al directorio del proyecto
-* Abrir un proyecto: **HOME>New>Project>From Folder**
+* Abrir un proyecto de Matlab: **HOME>New>Project>From Folder**
 * Añadir las carpetas que se deseen usar:
   
   01_Teoría <br> 
