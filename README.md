@@ -7,7 +7,7 @@ Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
 * Abrir Matlab e ir al directorio del proyecto
 * Crear un proyecto que englobe las carpetas que se desean usar
 
-1.- Instrucciones para crear un proyecto:
+2.- Instrucciones para crear un proyecto:
 * Ir al directorio del proyecto
 * Abrir un proyecto: HOME>New>Project>From Folder
 * Añadir las carpetas que se deseen usar:
