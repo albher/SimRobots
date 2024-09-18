@@ -11,22 +11,37 @@ Instrucciones para crear un proyecto:
 * Ir al directorio del proyecto
 * Abrir un proyecto: HOME>New>Project>From Folder
 * Añadir las carpetas que se deseen usar:
-  01_Teoría 
-  05_Cinemática 
-  10_Dinámica 
-  15_Médica 
-  20_Comunicaciones 
-  25_Móvil 
-  30_Visión 
-  35_Humanoides 
-  50_Clase_Otros 
-  APP 
-  Biblioteca  
+  01_Teoría
+  
+  05_Cinemática
+  
+  10_Dinámica
+  
+  15_Médica
+  
+  20_Comunicaciones
+  
+  25_Móvil
+  
+  30_Visión
+  
+  35_Humanoides
+  
+  50_Clase_Otros
+  
+  APP
+  
+  Biblioteca
+  
   Mfiles
-  RobMat 
-  Robots (carpetas y subcarpetas) 
+  
+  RobMat
+  
+  Robots (carpetas y subcarpetas)
+  
   RobSubSys 
 
   Ya tenemos el path de todas las carpetas y podemos usarlas sin problema.
+  
   La siguiente vez el proyecto ya está definido y solo hay que ejecutar el mismo picando sobre él.
 
