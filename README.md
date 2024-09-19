@@ -43,4 +43,4 @@ Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
 
 ## Importar nuevos robots en formato URDF y DH:
 * "Robotic Systems Toolbox" dispone de otros ficheros de robots (formato URDF) en https://github.com/mathworks/Industrial-Robots-Simscape/tree/master
-* La librería "ARTE" dispone de otro muchos robots en formato (formato DH) en https://github.com/4rtur1t0/ARTE/tree/master
+* La librería "ARTE" dispone de otro muchos robots (formato DH) en https://github.com/4rtur1t0/ARTE/tree/master
