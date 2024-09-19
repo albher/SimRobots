@@ -41,6 +41,6 @@ Colaboración entre "SimScape Multibody" y "Robotic Systems Toolbox"
 * Introducir la dirección del proyecto **https://github.com/albher/SimRobots.git**
 * El proyecto se descarga en la carpeta deseada, pero los ficheros solo son de lectura.
 
-## Importar nuevos ficheros URDF
+## Importar nuevos robots en formato URDF y DH:
 * "Robotic Systems Toolbox" dispone de otros ficheros de robot URDF en https://github.com/mathworks/Industrial-Robots-Simscape/tree/master
-* La librería ARTE dispone de otro muchos robot en formato DH en https://github.com/4rtur1t0/ARTE/tree/master
+* La librería "ARTE" dispone de otro muchos robot en formato DH en https://github.com/4rtur1t0/ARTE/tree/master
